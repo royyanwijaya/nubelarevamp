@@ -1,0 +1,28 @@
+.mx-auto {
+    margin-top: 96px !important;
+  }
+  .h4{
+      color: #506690;
+      text-align: center;
+      margin-top: 24px;
+  }
+.display-4{
+    margin-top: 0;
+    font-family: HK Grotesk;
+    font-weight: 600;
+    text-align: center;
+    font-size: 31px;
+}
+.card{
+    margin: auto;
+}
+.card-text{
+    font-family: HK Grotesk;
+    font-size: 15px;
+    text-align: center;
+    color: #869AB8;
+}
+.card-img-top{
+    align-items: center;
+    margin: auto;
+}
