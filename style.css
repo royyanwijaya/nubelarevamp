@@ -26,3 +26,9 @@
     align-items: center;
     margin: auto;
 }
+.navbar-footer{
+    font-family: HK Grotesk;
+    font-size: 15px;
+    text-align: left;
+    font-weight: 600;
+}
