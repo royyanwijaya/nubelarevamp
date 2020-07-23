@@ -1,5 +1,5 @@
 .mx-auto {
-    margin-top: 96px !important;
+    margin-top: 64px !important;
   }
   .h4{
       color: #506690;
@@ -13,9 +13,7 @@
     text-align: center;
     font-size: 31px;
 }
-.card{
-    margin: auto;
-}
+
 .card-text{
     font-family: HK Grotesk;
     font-size: 15px;
@@ -27,8 +25,33 @@
     margin: auto;
 }
 .navbar-footer{
+    padding-top: 10px;
+    margin-top: 20px;
     font-family: HK Grotesk;
     font-size: 15px;
     text-align: left;
     font-weight: 600;
+}
+.navbar-footer-sub{
+    margin-top: 0px;
+    margin-bottom: 13px;
+    font-family: HK Grotesk;
+    font-size: 15px;
+    text-align: left;
+    color: #869AB8;
+}
+a{
+    color: black;
+}
+.navbar-footer-email{
+    margin-top: 20px;
+    padding-top: 10px;
+    font-family: HK Grotesk;
+    font-size: 15px;
+    text-align: right;
+    font-weight: 600;
+}
+footer{
+    margin-top: 60px;
+    background-color: #F1F4F8;
 }
